@@ -16,6 +16,7 @@
 .. _`Discord`: https://discord.gg/sXyFF8tDtm
 .. _`Twitter`: https://twitter.com/letsunifyai
 
+.. image:: https://badge.techforpalestine.org/ceasefire-now
 
 .. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only
    :width: 100%
